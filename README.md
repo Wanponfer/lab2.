@@ -1,2 +1,2 @@
 # lab2.
-lab 2 is good
+Fred Wang and Harrison Park
