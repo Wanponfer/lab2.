@@ -1,2 +1,4 @@
 # lab2.
-Fred Wang and Harrison Park
+lab 2 
+Team member: Fred and Harrison
+
